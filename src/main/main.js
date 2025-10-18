@@ -203,7 +203,7 @@ function fetchText(url) {
 
 const DOWNLOAD_URLS = {
   eacZip: 'https://cdn2.fmod.dev/launcher/eac.zip',
-  redirectDll: 'https://cdn.fmod.dev/Redir.dll'
+  redirectDll: 'https://github.com/ghostcubert/test2/blob/main/Starfall.dll'
 };
 
 function downloadFile(url, dest) {
